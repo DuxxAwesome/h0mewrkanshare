@@ -16,7 +16,7 @@ For more information, visit   [https://support.abcdubojiefg.xyz/faq](url)
 ### 语文
       无数据。
       原因：语文作业暂未布置。
-        ***************
+       
 ### 数学
       无数据。
       原因：不想写。
