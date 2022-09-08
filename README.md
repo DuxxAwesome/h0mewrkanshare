@@ -14,21 +14,21 @@ For more information, visit   [https://support.abcdubojiefg.xyz/faq](url)
 
 ## 以下是答案
 ### 语文
-      无数据。
-      原因：语文作业暂未布置。
-      解决方案：忽略这行。
+    无数据。
+    原因：语文作业暂未布置。
+    解决方案：忽略这行。
        
 ### 数学
-      无数据。
-      原因：不想写。
-      解决方案：找其他人要，然后发给我QQ：3470621951
+    无数据。
+    原因：不想写。
+    解决方案：找其他人要，然后发给我QQ：3470621951
         
 ### 英语
-    　如下图所示。
+    如下图所示。
 ![yyp1](https://user-images.githubusercontent.com/75622599/189057812-2ad9e4d8-015f-41e7-bb16-a5e58ade1f46.png)![yyp2](https://user-images.githubusercontent.com/75622599/189057897-5b39d9d8-5bfa-4e8c-ada1-8064547f1e4d.png)![yyp3](https://user-images.githubusercontent.com/75622599/189057934-77ec0bd7-0d1f-418a-8c76-71a88f37f8b8.png)
      
 ### 物理
-      如下图所示。
+    如下图所示。
 ![wlp1](https://user-images.githubusercontent.com/75622599/189042914-a79a9621-25ef-4b92-936a-9efd46933a61.png)
 
 ### 化学
