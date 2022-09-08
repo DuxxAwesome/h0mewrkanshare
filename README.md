@@ -1,6 +1,6 @@
 # 这是作业（答案）分享页面
-## 此 URL 长期有效，内容会更新。
 **向下滚动以查看**
+## 此 URL 长期有效，内容会更新。
 ### 最近的一次更新：2022年9月8日  13:22:32  UTC+8:00-中国标准时间（北京、重庆、乌鲁木齐、香港特别行政区）
 
 ## 请先阅读这一部分内容！
@@ -26,8 +26,9 @@ For more information, visit   [https://support.abcdubojiefg.xyz/faq](url)
       原因：英语作业暂未布置。
         
 ### 物理
-    正在完成中......请稍候。
-    
+    如下图所示。
+    ![wlp1](https://user-images.githubusercontent.com/75622599/189042914-a79a9621-25ef-4b92-936a-9efd46933a61.png)
+
 ### 化学
     如下图所示。
 ![hxp1](https://user-images.githubusercontent.com/75622599/189036020-fbff2d6a-7a94-4b36-a889-2def8879b809.png)![hxp2](https://user-images.githubusercontent.com/75622599/189036252-8c89d2c2-3246-4dd3-8be7-129d1e0b28d1.png)![hxp3](https://user-images.githubusercontent.com/75622599/189036265-b9f5d445-6339-453a-8557-8fe5f17dfd53.png)
